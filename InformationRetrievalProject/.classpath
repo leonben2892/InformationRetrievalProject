@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/swingx-1.6.1.jar/swingx-1.6.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFx"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/workspace/InformationRetrievalProject/External Jars/lucene-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Desktop/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/workspace/MySQLConnection/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leon/Downloads/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
